@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Es5_widget</string>
+    <string name="mainTitle">Inserisci i tuoi dati</string>
+    <string name="textViewNome">Nome:</string>
+    <string name="name">nome</string>
+    <string name="eta">18</string>
+    <string name="email">nome@mail.com</string>
+    <string name="textViewEta">Eta:</string>
+    <string name="textViewEmail">Email:</string>
+    <string name="informatica">Informatica</string>
+    <string name="elettronica">Elettronica</string>
+    <string name="meccanica">Meccanica</string>
+    <string name="sport">Sport</string>
+    <string name="musica">Musica</string>
+    <string name="teatro">Teatro</string>
+    <string name="hobby">Hobby:</string>
+    <string name="textViewIndirizzo">Indirizzo:</string>
+    <string name="buttonInvia">Invia</string>
+</resources>
